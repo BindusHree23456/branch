@@ -1,0 +1,1 @@
+print("bindu is beautiful and cute girl")
